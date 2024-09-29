@@ -79,4 +79,5 @@ The app will run on http://localhost:3000.
 
 
 Deployment
-The app is deployed on .
+The app is deployed on "https://healthcare-services-app-pi.vercel.app/".
+
